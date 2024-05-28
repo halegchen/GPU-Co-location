@@ -1,0 +1,1 @@
+python3 run.py -g [gpu_num] -slo [x.x] -d [path_to_trace_file]
